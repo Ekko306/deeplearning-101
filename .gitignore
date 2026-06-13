@@ -3,3 +3,4 @@ anaconda_projects/
 *.csv
 models/
 data/
+DATA/
