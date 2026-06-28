@@ -2,5 +2,8 @@
 anaconda_projects/
 *.csv
 models/
-data/
+data*/
 DATA/
+runs*/
+img
+model_*
